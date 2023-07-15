@@ -14,6 +14,10 @@ This is what you should expect at the end of the project:
 
 ![](tfliteflutter.gif)
 
+* Provided Google Colab Notebook [here](c2f_tflite_model.ipynb)
+
+* Already trained Tensorflow Lite ML model available in the **assets/models/** folder; filename **modelc2f.tflite**.
+
 ### Please don't forget to follow me on social media:
 
 - On Twitter ([@drcoderz](https://www.twitter.com/drcoderz))
